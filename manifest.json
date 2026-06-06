@@ -1,0 +1,22 @@
+{
+  "id": "nuvio-mega-paket-v2",
+  "name": "Nuvio Mega Paket",
+  "version": "1.0.2",
+  "description": "SelcukFlix, RecTV, AnimeciX, Animeler, Anizium, BelgeselX",
+  "providers": [
+    {
+      "id": "mega_kaynak_film",
+      "name": "Mega Film ve Anime Saglayici",
+      "api": "https://raw.githubusercontent.com/qera18/nuvio-mega-paket/main/index.js",
+      "type": "movie",
+      "contentType": "javascript"
+    },
+    {
+      "id": "mega_kaynak_dizi",
+      "name": "Mega Dizi ve Anime Saglayici",
+      "api": "https://raw.githubusercontent.com/qera18/nuvio-mega-paket/main/index.js",
+      "type": "series",
+      "contentType": "javascript"
+    }
+  ]
+}
