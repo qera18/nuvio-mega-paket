@@ -1,7 +1,7 @@
 {
-  "id": "nuvio-mega-paket-v2",
+  "id": "nuvio-mega-paket-v3",
   "name": "Nuvio Mega Paket",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "SelcukFlix, RecTV, AnimeciX, Animeler, Anizium, BelgeselX",
   "providers": [
     {
