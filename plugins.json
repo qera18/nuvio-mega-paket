@@ -1,0 +1,39 @@
+[
+  {
+    "internalName": "AttentionRequiredProvider",
+    "name": "Attention Required!",
+    "language": "tr",
+    "authors": [
+      "Qera"
+    ],
+    "versionCode": 1,
+    "version": "1",
+    "url": "https://raw.githubusercontent.com/OWNER/REPO/builds/AttentionRequiredProvider.cs3",
+    "requiresResources": false,
+    "types": [
+      "Movie"
+    ],
+    "status": 1,
+    "iconUrl": "https://www.diziyou.one/favicon.ico",
+    "description": "Attention Required! içeriği için otomatik üretilen CloudStream eklentisi"
+  },
+  {
+    "internalName": "HDFilmizleProvider",
+    "name": "HDFilmizle",
+    "language": "tr",
+    "authors": [
+      "Qera"
+    ],
+    "versionCode": 1,
+    "version": "1",
+    "url": "https://raw.githubusercontent.com/OWNER/REPO/builds/HDFilmizleProvider.cs3",
+    "requiresResources": false,
+    "types": [
+      "Movie",
+      "Asian"
+    ],
+    "status": 1,
+    "iconUrl": "https://www.hdfilmizle.vip/favicon-48x48.png",
+    "description": "HD film izle, yabancı dizi, aksiyon, macera, komedi, dram. En yeni filmler 1080p Türkçe dublaj ve altyazılı seçeneklerle HDFilmizle’de!"
+  }
+]
